@@ -1,0 +1,2 @@
+C:\Users\fabrizio\Downloads\TF_G2\TF_G2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\fabrizio\Downloads\TF_G2\TF_G2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
